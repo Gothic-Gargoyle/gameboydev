@@ -1,0 +1,8 @@
+//
+// Created by hylbr on 22-3-2021.
+//
+
+#ifndef HELLOWORLDGAMEBOY_INPUT_H
+#define HELLOWORLDGAMEBOY_INPUT_H
+
+#endif //HELLOWORLDGAMEBOY_INPUT_H

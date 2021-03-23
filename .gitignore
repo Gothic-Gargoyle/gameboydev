@@ -1,0 +1,5 @@
+/src/gbdk/
+/.idea/
+/cmake-build-debug/
+/out/
+/src/old/
