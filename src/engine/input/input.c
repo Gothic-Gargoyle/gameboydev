@@ -7,13 +7,11 @@ void checkInput() {
 
     //TODO: fix this to be more concisive.
     if (joypad() & J_A || jumping == 1){
-        jump(0,playerlocation);
+        jump();
     }
 
-    //TODO Implement running & directional jumping how den?
-    if(joypad() & J_B){
-        currentspeedY=4;
-    }
+    //TODO Running
+    //Ooit.
 
     switch (joypad()){
         case J_LEFT:
@@ -26,7 +24,7 @@ void checkInput() {
             move_sprite(0,playerlocation[0],playerlocation[1]);
             break;
 
-        case J_UP:
+     /*   case J_UP:
             playerlocation[1] = playerlocation[1] - currentSpeedX;
             move_sprite(0,playerlocation[0],playerlocation[1]);
             break;
@@ -35,6 +33,7 @@ void checkInput() {
             playerlocation[1] = playerlocation[1] + currentSpeedX;
             move_sprite(0,playerlocation[0],playerlocation[1]);
             break;
+*/
     }
 
 }

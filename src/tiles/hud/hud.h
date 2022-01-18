@@ -1,0 +1,8 @@
+//
+// Created by hylbr on 17-1-2022.
+//
+
+#ifndef HELLOWORLDGAMEBOY_HUD_H
+#define HELLOWORLDGAMEBOY_HUD_H
+
+#endif //HELLOWORLDGAMEBOY_HUD_H

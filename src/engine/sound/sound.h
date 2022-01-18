@@ -1,0 +1,8 @@
+//
+// Created by hylbr on 17-1-2022.
+//
+
+#ifndef HELLOWORLDGAMEBOY_SOUND_H
+#define HELLOWORLDGAMEBOY_SOUND_H
+
+#endif //HELLOWORLDGAMEBOY_SOUND_H
